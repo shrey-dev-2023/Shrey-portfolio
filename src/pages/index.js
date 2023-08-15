@@ -36,7 +36,7 @@ export default function Home() {
               xl:!text-5xl lg:!text-center lg:!text-6xl md:!text-5xl sm:!text-3xl'
               />
               <p className='my-4 text-base font-medium md:text-sm sm:text-xs'>
-              As a skilled Web Developer and Graphic Designer, I am dedicated to turn ideas into innovative web applications. Dive into my website, explore my skills, and get a taste of the innovative solutions I bring to the digital landscape. Let's work together and turn ideas into interactive wonders.
+              As a skilled Web Developer and Graphic Designer, I am dedicated to turn ideas into innovative web applications. Dive into my website, explore my skills, and get a taste of the innovative solutions I bring to the digital landscape. Lets work together and turn ideas into interactive wonders.
               </p>
               <div className='flex items-center self-start mt-2 lg:self-center'>
                 <Link href='/resume.pdf' target={"_blank"}
