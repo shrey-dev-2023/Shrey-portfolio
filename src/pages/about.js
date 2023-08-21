@@ -74,7 +74,7 @@ const about = () => {
               </p>
               <p className="font-medium">
                 Whether I am working on a website, mobile app, or other digital
-                product, I bring my commitment to design excellence and
+                product, I bring my  commitment to design excellence and
                 user-centered thinking to every project I work on. I look
                 forward to the opportunity to bring my skills and passion for the same.
               </p>

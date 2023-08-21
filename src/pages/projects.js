@@ -6,6 +6,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { GithubIcon } from "@/components/Icons";
 import portfolioProject from "../../public/images/projects/Portfolio.png";
+import Nikeclone from "../../public/images/projects/Nike-clone.png";
 import TshirtCustomizerProject from "../../public/images/projects/Tshirt-customizer.png";
 import AmazonCloneProject from "../../public/images/projects/Amozon-Clone.jpg";
 import { motion } from "framer-motion";
@@ -137,11 +138,11 @@ const projects = () => {
                 </div>  
             <div className="col-span-6 sm:col-span-12">  
                 <Project
-                title="T-shirt Customization"
-                link="https://tshirt-customiser.online/"
+                title="Nike Clone"
+                link="https://nike-clone-two.vercel.app/"
                 type="Website"
-                github="https://github.com/shrey-dev-2023/Tshirt-customiser.git"
-                img={TshirtCustomizerProject}
+                github="https://github.com/shrey-dev-2023/Nike-Clone"
+                img={Nikeclone}
                 /> 
                 </div>  
             <div className="col-span-12">  
